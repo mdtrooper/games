@@ -1,0 +1,20 @@
+{
+	"games" : [
+		{
+			"category" : "Boardgame",
+			"system" : "Browser-Based",
+			"title" : "3D Hartwing Chess Set",
+			"description" : "3D chess game done in HTML/CSS/JS.",
+			"repository" : "https://github.com/juliangarnier/3D-Hartwig-chess-set",
+			"play_it_now" : "",
+		},
+		{
+			"category" : "Boardgame",
+			"system" : "Browser-Based",
+			"title" : "Desperate Gods",
+			"description" : "A free online board game that was designed to be played just like a board game in real-life: no rules are enforced by the computer.",
+			"repository" : "https://github.com/David20321/FTJ",
+			"play_it_now" : "http://www.wolfire.com/desperate-gods",
+		}
+	]
+}
