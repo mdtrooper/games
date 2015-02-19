@@ -16,7 +16,7 @@ Help: [MarkDown Help](https://help.github.com/articles/github-flavored-markdown)
 {{#toc}}
 - {{system}}
 	{{#category_toc}}
-	- {{category}}({{mardown_anchor(category)}}
+	- {{category}}({{mardown_anchor(category)}})
 	{{/category_toc}}
 {{/toc}}
 

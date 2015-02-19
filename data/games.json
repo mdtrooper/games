@@ -6,7 +6,7 @@
 			"title" : "3D Hartwing Chess Set",
 			"description" : "3D chess game done in HTML/CSS/JS.",
 			"repository" : "https://github.com/juliangarnier/3D-Hartwig-chess-set",
-			"play_it_now" : "",
+			"play_it_now" : ""
 		},
 		{
 			"category" : "Boardgame",
@@ -14,7 +14,30 @@
 			"title" : "Desperate Gods",
 			"description" : "A free online board game that was designed to be played just like a board game in real-life: no rules are enforced by the computer.",
 			"repository" : "https://github.com/David20321/FTJ",
-			"play_it_now" : "http://www.wolfire.com/desperate-gods",
+			"play_it_now" : "http://www.wolfire.com/desperate-gods"
+		},
+		{
+			"category" : "MMORPG",
+			"system" : "Browser-Based",
+			"title" : "BrowserQuest",
+			"description" : "An HTML5/JavaScript multiplayer game experiment.",
+			"repository" : "https://github.com/mozilla/BrowserQuest",
+			"play_it_now" : "http://browserquest.mozilla.org/"
+		},
+		{
+			"category" : "Arcade",
+			"system" : "Browser-Based",
+			"title" : "Alge's Escapade",
+			"description" : "HTML5, JavaScript, GameJs arcade game where you control an Algae.",
+			"repository" : "https://github.com/Dave-and-Mike/game-off-2012",
+			"play_it_now" : "http://dave-and-mike.github.io/game-off-2012/"
+		},
+		{
+			"category" : "Arcade",
+			"system" : "Native",
+			"title" : "C-Dogs SDL",
+			"description" : "overhead shoot-em-up, open source port of the classic DOS game.",
+			"repository" : "https://github.com/cxong/cdogs-sdl"
 		}
 	]
 }
