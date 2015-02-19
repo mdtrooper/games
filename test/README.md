@@ -13,12 +13,12 @@ Help: [MarkDown Help](https://help.github.com/articles/github-flavored-markdown)
 # Table of Contents
 
 - [Major Companies](#major-companies)
-{{#toc}}
-- {{system}}({{mardown_anchor_link(system)}})
-	{{#category_toc}}
-	- {{category}}({{mardown_anchor_link(category)}})
-	{{/category_toc}}
-{{/toc}}
+- Browser-Based(#browser-based)
+	- Arcade(#browser-basedarcade)
+	- Boardgame(#browser-basedboardgame)
+	- MMORPG(#browser-basedmmorpg)
+- Native(#native)
+	- Arcade(#nativearcade)
 
 -------
 
@@ -39,17 +39,28 @@ A selection of major game studios, publishers, etc. using GitHub:
 [<img src="https://github.com/playgameservices.png" title="Google Play Game Services" height="50">](https://github.com/playgameservices)&nbsp;
 [<img src="https://github.com/blizzard.png" title="Blizzard" height="50">](https://github.com/blizzard)&nbsp;
 
-{{#list_system}}
-# ({{{mardown_anchor_anchor(system)}}}){{system}}
-{{#list_category}}
+# (<a name="browser-based"></a>)Browser-Based
 
-## ({{{mardown_anchor_anchor(category)}}}){{category}}
-{{#games}}
-* [{{title}}]({{repository}}) - {{description}} {{#play_it_now}}[Play it now!]({{play_it_now}}){{/play_it_now}}
-{{/games}}
+## (<a name="browser-basedarcade"></a>)Arcade
+* [Alge's Escapade](https://github.com/Dave-and-Mike/game-off-2012) - HTML5, JavaScript, GameJs arcade game where you control an Algae. [Play it now!](http://dave-and-mike.github.io/game-off-2012/)
 
-{{/list_category}}
+
+## (<a name="browser-basedboardgame"></a>)Boardgame
+* [3D Hartwing Chess Set](https://github.com/juliangarnier/3D-Hartwig-chess-set) - 3D chess game done in HTML/CSS/JS. 
+* [Desperate Gods](https://github.com/David20321/FTJ) - A free online board game that was designed to be played just like a board game in real-life: no rules are enforced by the computer. [Play it now!](http://www.wolfire.com/desperate-gods)
+
+
+## (<a name="browser-basedmmorpg"></a>)MMORPG
+* [BrowserQuest](https://github.com/mozilla/BrowserQuest) - An HTML5/JavaScript multiplayer game experiment. [Play it now!](http://browserquest.mozilla.org/)
+
 
 -------
 
-{{/list_system}}
+# (<a name="native"></a>)Native
+
+## (<a name="nativearcade"></a>)Arcade
+* [C-Dogs SDL](https://github.com/cxong/cdogs-sdl) - overhead shoot-em-up, open source port of the classic DOS game. 
+
+
+-------
+
