@@ -40,10 +40,10 @@ A selection of major game studios, publishers, etc. using GitHub:
 [<img src="https://github.com/blizzard.png" title="Blizzard" height="50">](https://github.com/blizzard)&nbsp;
 
 {{#list_system}}
-# ({{{mardown_anchor_anchor(system)}}}){{system}}
+# {{{mardown_anchor_anchor(system)}}}{{system}}
 {{#list_category}}
 
-## ({{{mardown_anchor_anchor(category)}}}){{category}}
+## {{{mardown_anchor_anchor(category)}}}{{category}}
 {{#games}}
 * [{{title}}]({{repository}}) - {{description}} {{#play_it_now}}[Play it now!]({{play_it_now}}){{/play_it_now}}
 {{/games}}

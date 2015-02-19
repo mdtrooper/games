@@ -39,26 +39,26 @@ A selection of major game studios, publishers, etc. using GitHub:
 [<img src="https://github.com/playgameservices.png" title="Google Play Game Services" height="50">](https://github.com/playgameservices)&nbsp;
 [<img src="https://github.com/blizzard.png" title="Blizzard" height="50">](https://github.com/blizzard)&nbsp;
 
-# (<a name="browser-based"></a>)Browser-Based
+# <a name="browser-based"></a>Browser-Based
 
-## (<a name="browser-basedarcade"></a>)Arcade
+## <a name="browser-basedarcade"></a>Arcade
 * [Alge's Escapade](https://github.com/Dave-and-Mike/game-off-2012) - HTML5, JavaScript, GameJs arcade game where you control an Algae. [Play it now!](http://dave-and-mike.github.io/game-off-2012/)
 
 
-## (<a name="browser-basedboardgame"></a>)Boardgame
+## <a name="browser-basedboardgame"></a>Boardgame
 * [3D Hartwing Chess Set](https://github.com/juliangarnier/3D-Hartwig-chess-set) - 3D chess game done in HTML/CSS/JS. 
 * [Desperate Gods](https://github.com/David20321/FTJ) - A free online board game that was designed to be played just like a board game in real-life: no rules are enforced by the computer. [Play it now!](http://www.wolfire.com/desperate-gods)
 
 
-## (<a name="browser-basedmmorpg"></a>)MMORPG
+## <a name="browser-basedmmorpg"></a>MMORPG
 * [BrowserQuest](https://github.com/mozilla/BrowserQuest) - An HTML5/JavaScript multiplayer game experiment. [Play it now!](http://browserquest.mozilla.org/)
 
 
 -------
 
-# (<a name="native"></a>)Native
+# <a name="native"></a>Native
 
-## (<a name="nativearcade"></a>)Arcade
+## <a name="nativearcade"></a>Arcade
 * [C-Dogs SDL](https://github.com/cxong/cdogs-sdl) - overhead shoot-em-up, open source port of the classic DOS game. 
 
 
