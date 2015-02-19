@@ -14,9 +14,9 @@ Help: [MarkDown Help](https://help.github.com/articles/github-flavored-markdown)
 
 - [Major Companies](#major-companies)
 {{#toc}}
-- {{system}}({{mardown_anchor_link(system)}})
+- [{{system}}]({{mardown_anchor_link(system)}})
 	{{#category_toc}}
-	- {{category}}({{mardown_anchor_link(category)}})
+	- [{{category}}]({{mardown_anchor_link(category)}})
 	{{/category_toc}}
 {{/toc}}
 

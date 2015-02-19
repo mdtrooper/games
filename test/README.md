@@ -13,12 +13,12 @@ Help: [MarkDown Help](https://help.github.com/articles/github-flavored-markdown)
 # Table of Contents
 
 - [Major Companies](#major-companies)
-- Browser-Based(#browser-based)
-	- Arcade(#browser-basedarcade)
-	- Boardgame(#browser-basedboardgame)
-	- MMORPG(#browser-basedmmorpg)
-- Native(#native)
-	- Arcade(#nativearcade)
+- [Browser-Based](#browser-based)
+	- [Arcade](#browser-basedarcade)
+	- [Boardgame](#browser-basedboardgame)
+	- [MMORPG](#browser-basedmmorpg)
+- [Native](#native)
+	- [Arcade](#nativearcade)
 
 -------
 
