@@ -1,0 +1,3 @@
+[submodule "submodule_main_repo"]
+	path = submodule_main_repo
+	url = https://github.com/leereilly/games.git
